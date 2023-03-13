@@ -1,0 +1,19 @@
+button {
+	margin: 5px;
+	
+}
+.img {
+	width: 150px;
+	height: 150px;
+	margin: auto;
+	border:5px solid #c71585;
+	display: flex;
+	margin: 0px auto;
+	justify-content: center;
+}
+
+form{
+	display: flex;
+	margin: 0px auto;
+	justify-content: center;
+}

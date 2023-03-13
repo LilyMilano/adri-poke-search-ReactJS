@@ -1,0 +1,17 @@
+.div-container {
+	display: flex;
+	padding: 30px;
+	background: linear-gradient(pink,blueviolet);
+	
+}
+button{
+	border: 3px solid deeppink;
+	width: 80px;
+	height: 40px;
+}
+.div-button {
+	margin: 0px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
